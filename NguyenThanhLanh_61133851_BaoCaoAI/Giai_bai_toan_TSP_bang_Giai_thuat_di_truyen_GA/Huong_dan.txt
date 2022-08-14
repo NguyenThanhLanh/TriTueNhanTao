@@ -1,0 +1,4 @@
+Run file tsp.cpp
+Do thi test la graph1 trong do thi minh hoa
+Chuong trinh se tim ra loi giai va tong chi phi thuc hien loi giai
+Ket qua dua ra loi giai toi uu nhat voi chi phi thap nhat
